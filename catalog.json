@@ -1,0 +1,654 @@
+{
+ "version": 1,
+ "count": 18,
+ "destinations": [
+  {
+   "name": "Cobblestone Street Night",
+   "nameJa": "石畳の夜道",
+   "credit": "Photo: Greg Zaal, Jenelle van Heerden / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/cobblestone_street_night",
+   "biome": "canal_water",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    1.0,
+    0.944,
+    0.7586
+   ],
+   "sunI": 0.106,
+   "sunEuler": [
+    50.0,
+    177.5,
+    0.0
+   ],
+   "ambSky": [
+    0.1001,
+    0.078,
+    0.0876
+   ],
+   "ambEq": [
+    0.3974,
+    0.3142,
+    0.2025
+   ],
+   "ambGr": [
+    0.4161,
+    0.3019,
+    0.1347
+   ]
+  },
+  {
+   "name": "Blaubeuren at Night",
+   "nameJa": "ブラウボイレンの夜",
+   "credit": "Photo: Andreas Mischok / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/blaubeuren_night",
+   "biome": "canal_water",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    1.0,
+    0.8951,
+    0.5626
+   ],
+   "sunI": 0.289,
+   "sunEuler": [
+    5.0,
+    211.6,
+    0.0
+   ],
+   "ambSky": [
+    0.225,
+    0.1971,
+    0.1246
+   ],
+   "ambEq": [
+    0.3474,
+    0.2999,
+    0.2094
+   ],
+   "ambGr": [
+    0.4877,
+    0.3684,
+    0.1985
+   ]
+  },
+  {
+   "name": "Golden Bay Night",
+   "nameJa": "ゴールデンベイの夜景",
+   "credit": "Photo: Greg Zaal / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/golden_bay",
+   "biome": "canal_water",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    1.0,
+    0.9419,
+    0.7359
+   ],
+   "sunI": 0.163,
+   "sunEuler": [
+    5.0,
+    228.6,
+    0.0
+   ],
+   "ambSky": [
+    0.0076,
+    0.1314,
+    0.3773
+   ],
+   "ambEq": [
+    0.3114,
+    0.2988,
+    0.2788
+   ],
+   "ambGr": [
+    0.515,
+    0.3205,
+    0.1191
+   ]
+  },
+  {
+   "name": "Hansaplatz Night",
+   "nameJa": "ハンザ広場の夜",
+   "credit": "Photo: Greg Zaal / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/hansaplatz",
+   "biome": "canal_water",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    1.0,
+    0.9972,
+    0.8086
+   ],
+   "sunI": 0.069,
+   "sunEuler": [
+    50.0,
+    188.9,
+    0.0
+   ],
+   "ambSky": [
+    0.0708,
+    0.0547,
+    0.0568
+   ],
+   "ambEq": [
+    0.3251,
+    0.2859,
+    0.2013
+   ],
+   "ambGr": [
+    0.2465,
+    0.2103,
+    0.1449
+   ]
+  },
+  {
+   "name": "Pond Bridge Night",
+   "nameJa": "夜の池の橋",
+   "credit": "Photo: Greg Zaal / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/pond_bridge_night",
+   "biome": "night_crickets",
+   "rot": 0.0,
+   "ambVol": 0.55,
+   "sun": [
+    0.7868,
+    0.8537,
+    1.0
+   ],
+   "sunI": 0.669,
+   "sunEuler": [
+    32.3,
+    184.2,
+    0.0
+   ],
+   "ambSky": [
+    0.3321,
+    0.4023,
+    0.5347
+   ],
+   "ambEq": [
+    0.0864,
+    0.0812,
+    0.0832
+   ],
+   "ambGr": [
+    0.1055,
+    0.0819,
+    0.1035
+   ]
+  },
+  {
+   "name": "Savanna Night",
+   "nameJa": "夜のサバンナ",
+   "credit": "Photo: Greg Zaal / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/dikhololo_night",
+   "biome": "night_crickets",
+   "rot": 0.0,
+   "ambVol": 0.55,
+   "sun": [
+    1.0,
+    0.9789,
+    0.8229
+   ],
+   "sunI": 0.382,
+   "sunEuler": [
+    6.6,
+    98.9,
+    0.0
+   ],
+   "ambSky": [
+    0.2376,
+    0.2515,
+    0.2609
+   ],
+   "ambEq": [
+    0.2388,
+    0.207,
+    0.1652
+   ],
+   "ambGr": [
+    0.0956,
+    0.0578,
+    0.0413
+   ]
+  },
+  {
+   "name": "Alpine Field",
+   "nameJa": "アルプスの草原",
+   "credit": "Photo: Andreas Mischok / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/alps_field",
+   "biome": "mountain_wind",
+   "rot": 0.0,
+   "ambVol": 0.4,
+   "sun": [
+    0.9184,
+    0.9542,
+    1.0
+   ],
+   "sunI": 0.584,
+   "sunEuler": [
+    42.4,
+    215.4,
+    0.0
+   ],
+   "ambSky": [
+    0.2902,
+    0.3654,
+    0.4626
+   ],
+   "ambEq": [
+    0.2678,
+    0.2825,
+    0.2303
+   ],
+   "ambGr": [
+    0.2444,
+    0.243,
+    0.1555
+   ]
+  },
+  {
+   "name": "Drakensberg Mountain",
+   "nameJa": "ドラケンスバーグの孤峰",
+   "credit": "Photo: Dimitrios Savva, Jarod Guest / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/drakensberg_solitary_mountain",
+   "biome": "mountain_wind",
+   "rot": 0.0,
+   "ambVol": 0.4,
+   "sun": [
+    0.9157,
+    0.9569,
+    1.0
+   ],
+   "sunI": 0.439,
+   "sunEuler": [
+    17.4,
+    217.5,
+    0.0
+   ],
+   "ambSky": [
+    0.2158,
+    0.2883,
+    0.3977
+   ],
+   "ambEq": [
+    0.3663,
+    0.3855,
+    0.4115
+   ],
+   "ambGr": [
+    0.2908,
+    0.2336,
+    0.1786
+   ]
+  },
+  {
+   "name": "Mountain Lookout Dusk",
+   "nameJa": "山の展望台の夕暮れ",
+   "credit": "Photo: Dimitrios Savva, Jarod Guest / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/fouriesburg_mountain_lookout",
+   "biome": "mountain_wind",
+   "rot": 0.0,
+   "ambVol": 0.4,
+   "sun": [
+    1.0,
+    0.972,
+    0.891
+   ],
+   "sunI": 0.631,
+   "sunEuler": [
+    13.4,
+    214.0,
+    0.0
+   ],
+   "ambSky": [
+    0.3209,
+    0.3887,
+    0.4694
+   ],
+   "ambEq": [
+    0.3318,
+    0.3268,
+    0.3165
+   ],
+   "ambGr": [
+    0.2076,
+    0.1802,
+    0.1545
+   ]
+  },
+  {
+   "name": "Rosendal Morning",
+   "nameJa": "ロースンダルの朝の山",
+   "credit": "Photo: Dimitrios Savva, Jarod Guest / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/rosendal_mountain_midmorning",
+   "biome": "mountain_wind",
+   "rot": 0.0,
+   "ambVol": 0.4,
+   "sun": [
+    0.9052,
+    0.9607,
+    1.0
+   ],
+   "sunI": 0.457,
+   "sunEuler": [
+    22.8,
+    219.4,
+    0.0
+   ],
+   "ambSky": [
+    0.205,
+    0.3097,
+    0.3991
+   ],
+   "ambEq": [
+    0.3198,
+    0.3356,
+    0.3325
+   ],
+   "ambGr": [
+    0.2945,
+    0.261,
+    0.2087
+   ]
+  },
+  {
+   "name": "Lakeland Sunset",
+   "nameJa": "湖水地方の夕景",
+   "credit": "Photo: Sergej Majboroda / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/lakes",
+   "biome": "lake_dawn",
+   "rot": 0.0,
+   "ambVol": 0.5,
+   "sun": [
+    1.0,
+    0.9905,
+    0.8769
+   ],
+   "sunI": 0.57,
+   "sunEuler": [
+    11.7,
+    215.7,
+    0.0
+   ],
+   "ambSky": [
+    0.2263,
+    0.385,
+    0.4649
+   ],
+   "ambEq": [
+    0.3205,
+    0.3408,
+    0.3237
+   ],
+   "ambGr": [
+    0.1741,
+    0.1756,
+    0.1587
+   ]
+  },
+  {
+   "name": "Lake Pier",
+   "nameJa": "湖の桟橋",
+   "credit": "Photo: Alexander Scholten / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/lake_pier",
+   "biome": "lake_dawn",
+   "rot": 0.0,
+   "ambVol": 0.5,
+   "sun": [
+    1.0,
+    0.9816,
+    0.9153
+   ],
+   "sunI": 0.671,
+   "sunEuler": [
+    15.2,
+    219.4,
+    0.0
+   ],
+   "ambSky": [
+    0.34,
+    0.4077,
+    0.4971
+   ],
+   "ambEq": [
+    0.3216,
+    0.3533,
+    0.3833
+   ],
+   "ambGr": [
+    0.1461,
+    0.1491,
+    0.1524
+   ]
+  },
+  {
+   "name": "Winter Lake Dusk",
+   "nameJa": "冬の湖の夕暮れ",
+   "credit": "Photo: Sergej Majboroda / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/winter_lake_01",
+   "biome": "snow_wind",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    1.0,
+    0.9123,
+    0.7562
+   ],
+   "sunI": 0.432,
+   "sunEuler": [
+    16.7,
+    210.7,
+    0.0
+   ],
+   "ambSky": [
+    0.2413,
+    0.2823,
+    0.3272
+   ],
+   "ambEq": [
+    0.2948,
+    0.3105,
+    0.3208
+   ],
+   "ambGr": [
+    0.2492,
+    0.281,
+    0.3136
+   ]
+  },
+  {
+   "name": "Secluded Beach",
+   "nameJa": "人けのない浜辺",
+   "credit": "Photo: Greg Zaal, Rico Cilliers / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/secluded_beach",
+   "biome": "lake_dawn",
+   "rot": 0.0,
+   "ambVol": 0.5,
+   "sun": [
+    1.0,
+    1.0,
+    0.9918
+   ],
+   "sunI": 0.364,
+   "sunEuler": [
+    20.1,
+    231.7,
+    0.0
+   ],
+   "ambSky": [
+    0.1982,
+    0.2393,
+    0.3403
+   ],
+   "ambEq": [
+    0.2798,
+    0.2706,
+    0.2305
+   ],
+   "ambGr": [
+    0.4022,
+    0.3533,
+    0.2436
+   ]
+  },
+  {
+   "name": "Horn-Koppe Snow",
+   "nameJa": "ホルンコッペの雪原",
+   "credit": "Photo: Grzegorz Wronkowski / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/horn-koppe_snow",
+   "biome": "snow_wind",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    0.9543,
+    0.967,
+    1.0
+   ],
+   "sunI": 0.239,
+   "sunEuler": [
+    5.0,
+    165.3,
+    0.0
+   ],
+   "ambSky": [
+    0.133,
+    0.1706,
+    0.2487
+   ],
+   "ambEq": [
+    0.3221,
+    0.3574,
+    0.4041
+   ],
+   "ambGr": [
+    0.3718,
+    0.3808,
+    0.4058
+   ]
+  },
+  {
+   "name": "Snowy Park",
+   "nameJa": "雪の公園",
+   "credit": "Photo: Oliksiy Yakovlyev / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/snowy_park_01",
+   "biome": "snow_wind",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    0.8733,
+    0.9518,
+    1.0
+   ],
+   "sunI": 0.742,
+   "sunEuler": [
+    5.0,
+    243.9,
+    0.0
+   ],
+   "ambSky": [
+    0.3892,
+    0.4393,
+    0.5108
+   ],
+   "ambEq": [
+    0.3191,
+    0.3596,
+    0.418
+   ],
+   "ambGr": [
+    0.4375,
+    0.4975,
+    0.5744
+   ]
+  },
+  {
+   "name": "Tiber Island, Rome",
+   "nameJa": "ローマ・ティベリーナ島",
+   "credit": "Photo: Greg Zaal, Rico Cilliers / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/tiber_island",
+   "biome": "canal_water",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    1.0,
+    0.9894,
+    0.969
+   ],
+   "sunI": 0.603,
+   "sunEuler": [
+    32.8,
+    214.8,
+    0.0
+   ],
+   "ambSky": [
+    0.3399,
+    0.3645,
+    0.4211
+   ],
+   "ambEq": [
+    0.2392,
+    0.2239,
+    0.19
+   ],
+   "ambGr": [
+    0.3975,
+    0.3728,
+    0.3494
+   ]
+  },
+  {
+   "name": "Venice Dawn",
+   "nameJa": "ヴェネツィアの夜明け",
+   "credit": "Photo: Greg Zaal, Rico Cilliers / Poly Haven (CC0)",
+   "license": "CC0",
+   "source": "https://polyhaven.com/a/venice_dawn_1",
+   "biome": "canal_water",
+   "rot": 0.0,
+   "ambVol": 0.45,
+   "sun": [
+    0.9805,
+    0.9808,
+    1.0
+   ],
+   "sunI": 0.8,
+   "sunEuler": [
+    15.7,
+    161.1,
+    0.0
+   ],
+   "ambSky": [
+    0.3535,
+    0.489,
+    0.5942
+   ],
+   "ambEq": [
+    0.2787,
+    0.3347,
+    0.4117
+   ],
+   "ambGr": [
+    0.1477,
+    0.1541,
+    0.1989
+   ]
+  }
+ ]
+}
